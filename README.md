@@ -8,7 +8,7 @@ In this project, I've used intermediate to advanced level SQL queries to explore
 
 [View full project...](https://github.com/Nashra-Tazmeen/SQL_movies_DB_advanced_querying)
 
-# HR Data Analytics Dashboard
+# HR Data Analytics Dashboard 
 
 
 
