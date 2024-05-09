@@ -1,6 +1,6 @@
 # projects
 
-# SQL_movies_DB_advanced_querying
+# SQL movies DB advanced querying
 
 
 <img src="https://github.com/Nashra-Tazmeen/SQL_movies_DB_advanced_querying/blob/main/Images/Image1.jpg?raw=true" alt="Description of the image" width="640" height="480">
